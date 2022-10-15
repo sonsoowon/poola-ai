@@ -18,7 +18,7 @@
   ![keypoint1](https://user-images.githubusercontent.com/55790232/195974522-641f281f-6289-4f13-bde3-70566d4ba732.png)
   ![keypoint2](https://user-images.githubusercontent.com/55790232/195974524-c79d3e21-ed0c-4fd5-810b-c541939f63dc.png)
 
-
+<br/>
 ### [2. 사용자-제품 매칭률(Fit Score) 계산 알고리즘](https://github.com/sonsoowon/poola-ai/blob/master/Fit_Score_Algorithm.ipynb)
 2021-01 ~ 2021-02
 
@@ -27,13 +27,13 @@
 - 사용자의 체형과 제품의 특성을 비교 분석해 사용자가 제품을 편안하게 착용할 확률을 수치로 나타냈습니다.
 - 착용감에 영향을 주는 제품의 각 요소에 가중치를 임의로 부여하고 계산했기에, 충분한 검증이 이뤄지지 않았다는 한계가 있습니다.
 
-<center><img src="https://user-images.githubusercontent.com/55790232/195974799-6c9ffbe5-39b5-418a-896c-232d90d0df03.png"></center>
-
 ![fitscore](https://user-images.githubusercontent.com/55790232/195974799-6c9ffbe5-39b5-418a-896c-232d90d0df03.png)
 
+<br/>
 ### [3. Amazon Personalize를 활용한 추천 시스템](https://glaze-breadfruit-31f.notion.site/Amazon-Personalize-Manual-84985f2ad8854491879ef25c89ae6877)
 2021-06 ~ 2021-07
 
+![1 (4)](https://user-images.githubusercontent.com/55790232/195975800-5083b709-206d-4907-a77c-1a9cfa2b7941.png)
 
 매칭률 계산 알고리즘의 문제점을 해결하기위해 2차 MVP 이후 추천 시스템 도입을 시도했습니다.
 
