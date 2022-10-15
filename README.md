@@ -19,6 +19,7 @@
   ![keypoint2](https://user-images.githubusercontent.com/55790232/195974524-c79d3e21-ed0c-4fd5-810b-c541939f63dc.png)
 
 <br/>
+
 ### [2. 사용자-제품 매칭률(Fit Score) 계산 알고리즘](https://github.com/sonsoowon/poola-ai/blob/master/Fit_Score_Algorithm.ipynb)
 2021-01 ~ 2021-02
 
@@ -30,6 +31,7 @@
 ![fitscore](https://user-images.githubusercontent.com/55790232/195974799-6c9ffbe5-39b5-418a-896c-232d90d0df03.png)
 
 <br/>
+
 ### [3. Amazon Personalize를 활용한 추천 시스템](https://glaze-breadfruit-31f.notion.site/Amazon-Personalize-Manual-84985f2ad8854491879ef25c89ae6877)
 2021-06 ~ 2021-07
 
