@@ -1,5 +1,8 @@
 # AmazonPersonalize_Input_W5
 
+
+[Amazon Personalize Input (W5)](https://www.notion.so/Amazon-Personalize-Input-W5-f1cf3d99486d45e59ed27c7fd20d4443)
+
 ### What
 
 ---
