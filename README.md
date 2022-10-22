@@ -26,8 +26,6 @@
 ### [2. 사용자-제품 매칭률(Fit Score) 계산 알고리즘](https://github.com/sonsoowon/poola-ai/blob/master/Fit_Score_Algorithm.ipynb)
 2021-01 ~ 2021-02
 
-**[Fit Score Algorithm Manual](https://glaze-breadfruit-31f.notion.site/Fit-Score-Algorithm-Manual-8eda341793f44a71a4814a4a3e1095ec)**
-
 - 사용자의 체형과 제품의 특성을 비교 분석해 사용자가 제품을 편안하게 착용할 확률을 수치로 나타냈습니다.
 - 착용감에 영향을 주는 제품의 각 요소에 가중치를 임의로 부여하고 계산했기에, 충분한 검증이 이뤄지지 않았다는 한계가 있습니다.
 
@@ -35,13 +33,9 @@
 
 <br/>
 
-### [3. Amazon Personalize를 활용한 추천 시스템](https://glaze-breadfruit-31f.notion.site/Amazon-Personalize-Manual-84985f2ad8854491879ef25c89ae6877)
+### 3. Amazon Personalize를 활용한 추천 시스템
 2021-06 ~ 2021-07
 
 ![1 (4)](https://user-images.githubusercontent.com/55790232/195975800-5083b709-206d-4907-a77c-1a9cfa2b7941.png)
 
 매칭률 계산 알고리즘의 문제점을 해결하기위해 2차 MVP 이후 추천 시스템 도입을 시도했습니다.
-
-1. [추천 시스템 기획](https://glaze-breadfruit-31f.notion.site/W4-fbe22e9ab78244f89e69443ed2ee8d39)
-2. [Amazon Personalize 입력 데이터 분석](https://glaze-breadfruit-31f.notion.site/Amazon-Personalize-Input-W5-f1cf3d99486d45e59ed27c7fd20d4443)
-3. [Amazon Personalize 시범 적용](https://glaze-breadfruit-31f.notion.site/Amazon-Personalize-W6-a28cab2fc6d442b9b5072f60e35c7e30)
