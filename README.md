@@ -1,8 +1,8 @@
 # [풀라](https://poola.co.kr/)
-2020-08 ~ 2021-07
+2020-12 ~ 2021-07
 
 ### 1. 컵 분류 및 앞중심 높이 너비 추출 모델
-2020-08 ~ 2020-12
+2020-12 ~ 2021-01
 
 - **[학습 데이터 전처리](https://github.com/sonsoowon/poola-ai/blob/master/Image_Preprocess.ipynb)**
 
@@ -24,7 +24,7 @@
 <br/>
 
 ### [2. 사용자-제품 매칭률(Fit Score) 계산 알고리즘](https://github.com/sonsoowon/poola-ai/blob/master/Fit_Score_Algorithm.ipynb)
-2021-01 ~ 2021-02
+2021-02 ~ 2021-03
 
 - 사용자의 체형과 제품의 특성을 비교 분석해 사용자가 제품을 편안하게 착용할 확률을 수치로 나타냈습니다.
 - 착용감에 영향을 주는 제품의 각 요소에 가중치를 임의로 부여하고 계산했기에, 충분한 검증이 이뤄지지 않았다는 한계가 있습니다.
